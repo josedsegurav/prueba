@@ -1,4 +1,7 @@
 #header {
-    background-image: url(../images/slider-1.png);
+    background-image: url("../images/slider-1.png");
     height: 500px;
+}
+li {
+    color: white;
 }
